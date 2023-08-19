@@ -11,6 +11,7 @@ __Previews
 *.log
 *.htm
 *.$$$
+*.PcbLib
 
 #useless dirs
 Project\ Outputs
